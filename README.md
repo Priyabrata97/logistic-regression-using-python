@@ -4,6 +4,8 @@ Implementation of logistic regression in python from scratch
 The objective of this logistic regression model is to classify dogs and cats images
 The dataset is from a competition on Kaggle on classifying cats and dogs
 
+Dataset: https://www.kaggle.com/c/dogs-vs-cats
+
 Out of around 25000 images, only 200 images are used, each category having 100 images
 
 File:     image_preprocess.py                - for preprocessing the raw images using OPENCV and store the processed images
