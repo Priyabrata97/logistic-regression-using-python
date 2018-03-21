@@ -99,3 +99,6 @@ def main():
     # Final output
     print("Train accuracy: {}".format( accuracy(w,b,X_train,y_train) ))
     print("Test accuracy: {}".format( accuracy(w,b,X_test,y_test) ))
+    
+if __name__ == "__main__":
+    main()
