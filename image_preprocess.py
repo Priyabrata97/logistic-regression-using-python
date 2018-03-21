@@ -3,7 +3,7 @@ import numpy as np
 import pickle
 import os
 
-path = "C:\\Users\\Priyabrata\\Desktop\\pics\\"
+path = os.getcwd()+"\\pics\\"
 
 images = []
 
